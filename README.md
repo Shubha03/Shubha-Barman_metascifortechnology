@@ -1,1 +1,0 @@
-# Shubha-Barman_metascifortecnology
