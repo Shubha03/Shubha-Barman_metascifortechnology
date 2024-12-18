@@ -1,0 +1,5 @@
+age,gender,weight,height,activity_level,goal,calories,protein,carbs,fat
+30,male,80,175,moderate,weight loss,2000,120,220,60
+25,female,65,165,active,muscle gain,2500,150,250,80
+40,female,90,170,sedentary,balanced,1800,90,200,50
+35,male,95,180,very active,weight loss,2800,160,200,90
